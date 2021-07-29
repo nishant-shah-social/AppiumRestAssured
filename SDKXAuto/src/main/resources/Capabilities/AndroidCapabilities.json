@@ -1,0 +1,44 @@
+{
+	"automationName": "UiAutomator2",
+	"platformName": "Android",
+	"local": {
+		"mobileapp": {
+			"mobile": [
+				{
+					"deviceName": "emulator-5554",
+					"platformVersion": "8.1",
+					"app": "/Users/fanilsuratwala/eclipse-workspace/SKDXAutomation/src/main/resources/Apps/app-stagingDebug.apk",
+					"appPackage": "com.helpshift.liteyagami",
+					"appActivity": "com.helpshift.liteyagami.MainActivity",
+					"noReset": "false",
+					"appWaitForLAunch": "false",
+					"autoAcceptAlerts": "true",
+					"autoGrantPermissions": "true"
+				}
+			],
+			"tablet": [
+				{
+					"deviceName": "Android Tablet",
+					"app": "/Users/fanilsuratwala/eclipse-workspace/SKDXAutomation/src/main/resources/Apps/app-stagingDebug.apk",
+					"appPackage": "com.helpshift.liteyagami",
+					"appActivity": "com.helpshift.liteyagami.MainActivity"
+				}
+			]
+		},
+		"mobileweb": {
+			"mobile": [
+				{
+					"deviceName": "emulator-5554",
+					"platformVersion": "8.1",
+					"browserName": "Chrome"
+				}
+			],
+			"tablet": [
+				{
+					"deviceName": "Android Tablet",
+					"browserName": "Chrome"
+				}
+			]
+		}
+	}
+}

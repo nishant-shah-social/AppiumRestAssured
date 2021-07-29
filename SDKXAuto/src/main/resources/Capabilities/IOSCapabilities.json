@@ -1,0 +1,42 @@
+{
+	"automationName": "XCUITest",
+	"platformName": "iOS",
+	"local": {
+		"mobileapp": {
+			"mobile": [
+				{
+					"deviceName": "iPhone 8",
+					"platformVersion": "13.6",
+					"udid": "3761A819-9E66-464B-80AE-138689DE0AE7",
+					"app": "/Users/fanilsuratwala/eclipse-workspace/SKDXAutomation/src/main/resources/Apps/Falcon.app",
+					"bundleid": "com.helpshift.demo",
+					"autoGrantPermissions": "true"
+				}
+			],
+			"tablet": [
+				{
+					"deviceName": "iPad Pro",
+					"udid": "759B43C5-DC54-440D-AB34-E5108263F9FD",
+					"app": "/Users/fanilsuratwala/eclipse-workspace/SKDXAutomation/src/main/resources/Apps/Falcon.app",
+					"bundleid": "com.helpshift.demo"
+				}
+			]
+		},
+		"mobileweb": {
+			"mobile": [
+				{
+					"deviceName": "iPhone 8",
+					"platformVersion": "13.6",
+					"browserName": "Safari"
+				}
+			],
+			"tablet": [
+				{
+					"deviceName": "iPad Pro",
+					"platformVersion": "13.6",
+					"browserName": "Safari"
+				}
+			]
+		}
+	}
+}

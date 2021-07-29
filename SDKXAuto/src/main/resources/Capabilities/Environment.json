@@ -1,0 +1,17 @@
+{
+	"appiumServerUrl": "http://127.0.0.1:4723/wd/hub",
+	"domain": "sbox-sigma",
+	"extendedDomain": "helpshift",
+	"extension": "mobi",
+	"adminUsername": "sigma@helpshift.mobi",
+	"adminPassword": "sigma@123!",
+	"webchatUrl": "https://sbox-sig-8c6379106a82f9d.webchat.infinitelybeta.com/latest/demo/?domain=sbox-sigma&pid=sbox-sigma_platform_20210325134527908-8c6379106a82f9d",
+	"attachmentsUrl": "https://drive.google.com/uc?id=1F-McykokduTGxldKVsh-TepSx1nsZTHx&export=download",
+	"attachment": {
+		"testImage2": "https://drive.google.com/uc?id=1-17eQKSSQdLoULAAIbJwxKFM5lh9LLyv&export=download",
+		"testImage1": "https://drive.google.com/uc?id=1lgs7tFEJYM2lnm1wdmd1q2ux9NVt7gEh&export=download",
+		"testCSV": "https://drive.google.com/uc?id=18mwlZp4-AS6qcUasH0CmkC0hNoHrhE7D&export=download",
+		"testGIF": "https://drive.google.com/uc?id=1MoHwQ1Zp7bNQ8Lu8TqaJN5VDGeHFT1t6&export=download",
+		"testDocument": "https://drive.google.com/uc?id=1JtrOKM4ZP1tm1p5ArE0eC5W7LOEEMaDS&export=download"
+	}
+}
